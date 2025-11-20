@@ -1,4 +1,4 @@
-name: Juiceshop DevSecOps App Deploymentname: Juiceshop DevSecOps App Deployment
+name: Juiceshop DevSecOps App Deployment
 
 on:
   push:
